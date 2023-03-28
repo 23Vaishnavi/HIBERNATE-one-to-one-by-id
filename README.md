@@ -1,0 +1,1 @@
+# HIBERNATE-one-to-one-by-id
